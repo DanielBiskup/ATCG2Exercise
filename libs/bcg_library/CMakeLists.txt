@@ -1,5 +1,5 @@
 
-find_package(Eigen3 REQUIRED)
+find_package(eigen3 REQUIRED)
 find_package(rply REQUIRED)
 find_package(entt REQUIRED)
 find_package(tbb REQUIRED)
