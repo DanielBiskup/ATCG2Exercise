@@ -7,7 +7,7 @@ sudo snap install cmake --classic
 ## Setup
 - clone this repository using the `--recursive` flag, i.e. for HTTPS do
 `git clone --recursive https://github.com/intrinsicD/ATCG2Exercise.git`
-- run `bash init.sh`, which create the `./bin` directory and monkey patch `./external/spectra/CMakeLists.txt`
+- run `bash init.sh`, which monkey patches `./external/spectra/CMakeLists.txt`
 
 ## (Optional) Updating OpenGL version
 If you whish to update the OpenGL version used you can orient yourself on the following steps:
